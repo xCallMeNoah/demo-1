@@ -4,6 +4,7 @@
 Pause einlegen
 Konferenz nächste Woche vorbereiten
 Abwesenheiten eintragen
+Jens Weinzierl ein Minus eintragen
 
 ## Heute erledigen
 Freifahrtanträge bearbeiten
