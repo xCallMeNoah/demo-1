@@ -1,7 +1,9 @@
 # Alexander's TodoList
 
 ## Wichtig!
+Pause einlegen
 Konferenz nächste Woche vorbereiten
+Abwesenheiten eintragen
 
 ## Heute erledigen
 Freifahrtanträge bearbeiten
@@ -10,3 +12,4 @@ Freifahrtanträge bearbeiten
 Einkaufen für's Wochenende
 
 ## Nächste Woche erledigen
+Zeugnisse ausdrucken
