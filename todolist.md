@@ -1,4 +1,4 @@
-# TodoList
+# Alexander's TodoList
 
 ## Wichtig!
 Konferenz nächste Woche vorbereiten
@@ -10,4 +10,3 @@ Freifahrtanträge bearbeiten
 Einkaufen für's Wochenende
 
 ## Nächste Woche erledigen
-Urlaubsplanung durchführen
